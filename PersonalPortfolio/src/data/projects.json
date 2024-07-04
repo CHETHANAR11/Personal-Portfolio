@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Room Rover",
+        "imageSrc": "projects/project.png",
+        "description": "A Hotel Room Booking website with the features of search bar to find best Hotel.",
+        "skills": ["React", "Express", "Js" ,"Node", "MongoDB"],
+        "source": "https://github.com/CHETHANAR11/Hotel_Room_Booking"
+    },
+    {
+      "title": "Employee Hub",
+      "imageSrc": "projects/project.png",
+      "description": "React Native project for streamlined employee registeration and attendance Marking.",
+      "skills": ["React Native", "Express", "Node", "MongoDB"],
+      "source": "https://github.com/CHETHANAR11/EmployeeHub"
+    },
+    {
+      "title": "Swiggy Clone",
+      "imageSrc": "projects/project.png",
+      "description": "Swiggy Clone website using the official swiggy API with filtering features and routing pages.",
+      "skills": ["Javascript", "React", "Swiggy API"],
+      "source": "https://github.com/CHETHANAR11/Swiggy_clone"
+    }
+  ]

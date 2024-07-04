@@ -1,0 +1,30 @@
+[
+    {
+      "role": "REACT Developer",
+      "organisation": "Codsoft",
+      "startDate": "20 Jan, 2024",
+      "endDate": "19 Feb 2024",
+      "experiences": ["Worked on React Projects ", "Created User friendly Websites"],
+      "imageSrc": "history/codsoft.jpg"
+    },
+    {
+      "role": "Web Developer",
+      "organisation": "Nullclass",
+      "startDate": "1 Aug, 2023",
+      "endDate": "31 Aug, 2023",
+      "experiences": [
+        "Developed a Product Catalog Website and improved the UI for better Experience."
+      ],
+      "imageSrc": "history/nullclass.jpeg"
+    },
+    {
+      "role": "MERN Developer",
+      "organisation": "Channel BTech",
+      "startDate": "19 June, 2023",
+      "endDate": "08 July, 2023",
+      "experiences": [
+         "Served as a front-end developer within a team and worked on Doctor's appointment booking System."
+      ],
+      "imageSrc": "history/btech.png"
+    }
+  ]
